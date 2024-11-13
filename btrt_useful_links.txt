@@ -1,0 +1,73 @@
+github: https://github.com/hennadiikochevbeetroot
+
+
+1 intro:   https://youtube.com/live/UXydVdIs8CQ
+1 presentation: https://docs.google.com/presentation/d/1X_8gxugZbgbGAlt6LX8BRHf4PDxkI6E1/
+2 ssh terminal git github:   https://youtube.com/live/9Ldjc9HbcaM
+2 presentation: https://docs.google.com/presentation/d/1cOFfFCerjZbkenxEqJvUxZJpDTXahw7BgncL7wtgYQI/
+2+ github:  https://youtube.com/live/RFGQHrfQ0JU
+3 variables comments:   https://youtube.com/live/v_aDbi8wY50
+4 strings conditions while:   https://youtube.com/live/u9vWY60fyGA
+5,6 input import lists tuples dicts: https://youtube.com/live/IDeEm9XcFXw
+7 comprehensions ternaries functions:   https://youtube.com/live/0n4LE3zQUDI
+8 functions modules:   https://youtube.com/live/6uckUtIy1xw
+9,10 modules exceptions: https://youtube.com/live/pPeIj-Adiz8
+11 files context managers:  https://youtube.com/live/1Rh8KUUJE2U
+12 retro:  https://youtube.com/live/PHPncUOaIos
+13 functions first class:  https://youtube.com/live/IJGe-CbwuFw
+14 decorators:  https://youtube.com/live/dcu1oqlK4ic
+15 classes:  https://youtube.com/live/D0C3v5ey348
+15,16 namespaces inheritance: https://youtube.com/live/evXM_y5jPvg
+17 polymorphism:  https://youtube.com/live/80am7XPqnoU
+18 dunder property match case:  https://youtube.com/live/LgmP3V8B-Rw
+19 iterators generators:  https://youtube.com/live/MY190uqKPvs
+19 presentation: https://docs.google.com/presentation/d/10f27CImw0_D9so7gfBoqC5vtmoJxbKxF_OiTc1MSpf0/
+20 testing unittest pytest:  https://youtube.com/live/akARt3eHlIU
+21 testing context managers:  https://youtube.com/live/FnDCLRZups8
+21-2 context managers docker: https://youtube.com/live/NcYjFeE5cD8
+22 retro quiz:   https://youtube.com/live/sk803O4_lXk
+22 docker presentation: https://docs.google.com/presentation/d/1FpuQZzXR9IXEnT2z-H-9yz9nw6EjfhhHoZD8sYiJGxg/
+22+ retro docker:  https://youtube.com/live/jmfapEQKVMQ
+23 docker big o notation:   https://youtube.com/live/VzhOwfzd90w
+23 big o presentation:   https://docs.google.com/presentation/d/1Zk98fZfFkRbm4mFDDGf3TiBN7q0wdjnQel7mVTUg5LI/
+24 big o, recursion:   https://youtube.com/live/7DpkQmawyUQ
+24 recursion:  https://docs.google.com/presentation/d/1QNLkXDMb3Yb42fkQjpOeAAzKONn0rLDE/
+25 recursion stack queue deque: https://youtube.com/live/G07gGrbjDVs
+25-26 single linked list: https://youtube.com/live/CdxSeb9udWM
+26-27 searching hashing: https://youtube.com/live/bi7wzffiheI
+28 hashing graph theory: https://youtube.com/live/Q4NT--2J0Ms
+29 sqlite postgresql: https://youtube.com/live/FF5MeCb3SXQ
+30 sql: https://youtube.com/live/FbGGkOnse90
+31,32 networking http: https://youtube.com/live/BCwjloLrzrk
+33,34 threading multiprocessing: https://youtube.com/live/X0dfSJaK-9c
+37 django intro:  https://youtube.com/live/ndSoQPEoT9Y
+37-1 django views routes admin: https://youtube.com/live/fjWkKaqtBjU
+37-2 views routes apps: https://youtube.com/live/uQ2LWiWzb1g
+38 django html css: https://youtube.com/live/2pkxD8YT8_M
+39 django orm postgres: https://youtube.com/live/-1BDbOE4OAA
+40-41 django tests: https://youtube.com/live/8DRsfsQCLsQ
+42 django crud: https://youtube.com/live/06VljLFOjxA
+43 django auth: https://youtube.com/live/1rg13sbzMUI
+44 django final project discussion: https://youtube.com/live/xLwUJC2LCnE
+45 django async: https://youtube.com/live/MAVzpYSGwIY
+46 console chat app threading: https://youtube.com/live/ZAKDZJ0biEk
+
+BONUSES
+real test assignment: https://docs.google.com/document/d/13O1DNqg63sN12WkKn8ZePQfO773SdBONQPuR8n97WZo/edit?usp=sharing
+postgres good tutorial: https://www.postgresqltutorial.com/
+postgres northwind db with docker: https://github.com/pthom/northwind_psql/
+postgresql examples of queries (more advanced): https://github.com/genndy007/db-postgres-learning
+oneliner python tricks: https://github.com/genndy007/python-oneliners
+
+pretty good backend projects:
+https://github.com/genndy007/test_result_app_backend
+https://github.com/genndy007/comp_firm_nosql
+https://github.com/genndy007/database-converter
+https://github.com/genndy007/youtube-video-downloader-gui
+
+
+
+
+
+
+
